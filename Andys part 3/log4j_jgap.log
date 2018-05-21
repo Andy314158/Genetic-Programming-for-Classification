@@ -1,0 +1,283 @@
+[07.05.2018 20:21:36,959] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:21:36,970] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 14.0 MB
+[07.05.2018 20:21:36,982] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:21:37,052] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 14.0 MB
+[07.05.2018 20:21:37,061] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:21:37,440] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.08
+[07.05.2018 20:21:37,442] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((7.0 / Marginal Adhesion) - (Bland Chromatin / Normal Nucleoli)) - ((Bare Nuclei * Uniformity of Cell Size) / (Marginal Adhesion / Uniformity of Cell Shape))
+[07.05.2018 20:21:37,442] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:21:37,707] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:21:37,708] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 8.0 - ((Clump Thickness - (7.0 / Single Epithelial Cell Size)) * (Mitoses * Bare Nuclei))
+[07.05.2018 20:21:37,708] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:21:37,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:21:37,802] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Single Epithelial Cell Size + Bare Nuclei) + (Mitoses - 4.0)) * ((Mitoses * Bare Nuclei) * (1.0 - Uniformity of Cell Shape))
+[07.05.2018 20:21:37,803] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:21:37,974] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:21:37,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5.0 / Mitoses) - (Uniformity of Cell Shape + Bare Nuclei)
+[07.05.2018 20:21:37,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:21:38,184] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:21:38,184] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((7.0 - Marginal Adhesion) - (Bare Nuclei + Clump Thickness)) + (5.0 - Uniformity of Cell Size)
+[07.05.2018 20:21:38,184] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:21:38,560] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:21:38,561] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((6.0 - Marginal Adhesion) - (Marginal Adhesion * Bare Nuclei)) - (Uniformity of Cell Size + Clump Thickness)) + (8.0 - (Uniformity of Cell Shape / Marginal Adhesion))
+[07.05.2018 20:21:38,561] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:21:40,665] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:21:40,665] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((3.0 / Uniformity of Cell Shape) + (8.0 - Clump Thickness)) - Uniformity of Cell Shape) + (8.0 - Clump Thickness)) - (Marginal Adhesion * Bare Nuclei)) * Normal Nucleoli
+[07.05.2018 20:21:40,666] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:21:43,666] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:21:43,667] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((5.0 + ((6.0 - Normal Nucleoli) / Uniformity of Cell Size)) / Uniformity of Cell Size) + (8.0 - Clump Thickness)) - (Marginal Adhesion * Bare Nuclei)) - Uniformity of Cell Shape
+[07.05.2018 20:21:43,667] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[07.05.2018 20:21:57,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:21:57,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((5.0 + ((6.0 - Normal Nucleoli) / Uniformity of Cell Size)) / Uniformity of Cell Size) + (8.0 - Clump Thickness)) - (Marginal Adhesion * Bare Nuclei)) - Uniformity of Cell Shape
+[07.05.2018 20:21:57,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[07.05.2018 20:22:01,338] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:22:01,349] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 14.0 MB
+[07.05.2018 20:22:01,357] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:22:01,439] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 14.0 MB
+[07.05.2018 20:22:01,441] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:22:01,780] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:22:01,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Normal Nucleoli / Normal Nucleoli) - (Uniformity of Cell Size - 1.0)
+[07.05.2018 20:22:01,792] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:22:02,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:22:02,098] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Clump Thickness - (Bare Nuclei + Single Epithelial Cell Size)) - (((Bare Nuclei + Uniformity of Cell Size) + Clump Thickness) - (9.0 + Mitoses))
+[07.05.2018 20:22:02,098] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:22:02,271] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:22:02,272] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Single Epithelial Cell Size + 7.0) - (Bare Nuclei * Single Epithelial Cell Size)) + (Bare Nuclei - Clump Thickness)
+[07.05.2018 20:22:02,272] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:22:02,576] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:22:02,576] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((6.0 - Uniformity of Cell Shape) - Bare Nuclei) - Uniformity of Cell Size
+[07.05.2018 20:22:02,576] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:22:02,904] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:22:02,904] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((7.0 - Bare Nuclei) - Uniformity of Cell Size) - (Uniformity of Cell Size - 5.0)) / Uniformity of Cell Shape) - (Clump Thickness + Uniformity of Cell Shape)) + (7.0 - Bare Nuclei)
+[07.05.2018 20:22:02,904] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:22:03,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:22:03,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((6.0 / Single Epithelial Cell Size) - (Uniformity of Cell Size * Mitoses)) - Uniformity of Cell Shape) + (5.0 - Bare Nuclei)
+[07.05.2018 20:22:03,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:22:03,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:22:03,626] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((7.0 - Uniformity of Cell Shape) / Single Epithelial Cell Size) - Mitoses) - Uniformity of Cell Shape) + (5.0 - Bare Nuclei)
+[07.05.2018 20:22:03,626] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:22:03,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:22:03,753] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((7.0 - Uniformity of Cell Shape) - (Uniformity of Cell Shape * Bare Nuclei)) + (7.0 - Uniformity of Cell Shape)) - Normal Nucleoli
+[07.05.2018 20:22:03,753] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:22:04,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:22:04,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((5.0 + ((7.0 / Clump Thickness) - Bare Nuclei)) - Mitoses) - Uniformity of Cell Shape
+[07.05.2018 20:22:04,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:22:17,904] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:22:17,905] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 + ((3.0 - (Clump Thickness - (7.0 - (Clump Thickness - (4.0 - (Marginal Adhesion * Bare Nuclei)))))) - Uniformity of Cell Size)) - Uniformity of Cell Shape
+[07.05.2018 20:22:17,905] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[07.05.2018 20:22:22,953] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:22:22,954] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 + ((3.0 - (Clump Thickness - (7.0 - (Clump Thickness - (4.0 - (Marginal Adhesion * Bare Nuclei)))))) - Uniformity of Cell Size)) - Uniformity of Cell Shape
+[07.05.2018 20:22:22,954] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[07.05.2018 20:23:08,540] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:23:08,545] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 10.0 MB
+[07.05.2018 20:23:08,557] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:23:08,636] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 10.0 MB
+[07.05.2018 20:23:08,638] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:23:08,959] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.10
+[07.05.2018 20:23:08,961] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Bland Chromatin - Clump Thickness) + ((Uniformity of Cell Size + 6.0) - (Bare Nuclei * Bare Nuclei))
+[07.05.2018 20:23:08,962] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:23:09,092] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:23:09,093] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 - Bare Nuclei) - (Bare Nuclei * Single Epithelial Cell Size)
+[07.05.2018 20:23:09,093] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:23:09,392] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:23:09,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 - Bare Nuclei) - Uniformity of Cell Size
+[07.05.2018 20:23:09,394] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:23:09,609] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:23:09,609] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((4.0 - Uniformity of Cell Shape) - Uniformity of Cell Shape) * Marginal Adhesion) + ((8.0 - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:09,609] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:23:09,866] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:23:09,867] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((7.0 - Uniformity of Cell Shape) - Bare Nuclei) - Uniformity of Cell Size) * Mitoses) / Mitoses
+[07.05.2018 20:23:09,867] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:23:10,043] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:23:10,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3.0 - Bare Nuclei) - Uniformity of Cell Shape) * Marginal Adhesion) + ((8.0 - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:10,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:23:10,255] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:23:10,256] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((6.0 - Bare Nuclei) / Mitoses) - Uniformity of Cell Shape) * Marginal Adhesion) + ((8.0 - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:10,256] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:23:10,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:23:10,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((5.0 - Bare Nuclei) / Mitoses) - Uniformity of Cell Shape) * Marginal Adhesion) + ((8.0 - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:10,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:23:11,299] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:23:11,299] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((5.0 - (Bare Nuclei * Marginal Adhesion)) / Mitoses) - Uniformity of Cell Size) + ((8.0 - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:11,299] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:23:14,513] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:23:14,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7.0 - Uniformity of Cell Shape) + ((((7.0 - (Bare Nuclei * Marginal Adhesion)) + (6.0 - Clump Thickness)) - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:14,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:23:29,978] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:23:29,978] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7.0 - Uniformity of Cell Shape) + ((((7.0 - (Bare Nuclei * Marginal Adhesion)) + (6.0 - Clump Thickness)) - Uniformity of Cell Size) - Clump Thickness)
+[07.05.2018 20:23:29,978] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:24:11,602] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:24:11,608] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 14.0 MB
+[07.05.2018 20:24:11,619] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:24:11,707] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 14.0 MB
+[07.05.2018 20:24:11,709] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:24:12,009] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:24:12,010] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (4.0 / Uniformity of Cell Shape) - (Uniformity of Cell Size * Normal Nucleoli)
+[07.05.2018 20:24:12,012] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:24:12,134] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:24:12,137] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((3.0 * Uniformity of Cell Size) * ((3.0 * Uniformity of Cell Size) * (3.0 - Uniformity of Cell Size))) - ((Uniformity of Cell Shape * Mitoses) * (Normal Nucleoli * Normal Nucleoli))
+[07.05.2018 20:24:12,137] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:24:12,255] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:24:12,257] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9.0 - Marginal Adhesion) - (Clump Thickness * Uniformity of Cell Size)
+[07.05.2018 20:24:12,263] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:24:12,455] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:24:12,456] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Uniformity of Cell Size * Marginal Adhesion) / ((Marginal Adhesion * Single Epithelial Cell Size) / ((Normal Nucleoli * Normal Nucleoli) / ((4.0 - Bare Nuclei) - Uniformity of Cell Size)))
+[07.05.2018 20:24:12,456] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:24:12,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:24:12,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Bare Nuclei / Mitoses) * (Bare Nuclei + Marginal Adhesion)) / ((Normal Nucleoli * Normal Nucleoli) / ((4.0 - Bare Nuclei) - Uniformity of Cell Size))
+[07.05.2018 20:24:12,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:24:12,652] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:24:12,653] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((5.0 + (Single Epithelial Cell Size + Uniformity of Cell Size)) - (Single Epithelial Cell Size * Uniformity of Cell Size)) - (Marginal Adhesion * Bare Nuclei)) / Normal Nucleoli
+[07.05.2018 20:24:12,654] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:24:12,789] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:24:12,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9.0 - Marginal Adhesion) - (Uniformity of Cell Shape * Bare Nuclei)
+[07.05.2018 20:24:12,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:24:13,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:24:13,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 - Clump Thickness) + ((6.0 - Marginal Adhesion) - (Bare Nuclei + Uniformity of Cell Shape))
+[07.05.2018 20:24:13,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:24:13,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:24:13,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((6.0 - Uniformity of Cell Size) + ((6.0 - Uniformity of Cell Size) - (Uniformity of Cell Shape * Bare Nuclei))) + ((6.0 - Clump Thickness) - Uniformity of Cell Size)
+[07.05.2018 20:24:13,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:24:14,791] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:24:14,791] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7.0 + (((4.0 - Uniformity of Cell Size) + ((7.0 - Clump Thickness) - (Uniformity of Cell Shape * Bare Nuclei))) - Uniformity of Cell Size)) - Uniformity of Cell Shape
+[07.05.2018 20:24:14,794] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:24:31,217] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:24:31,217] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7.0 + (((4.0 - Uniformity of Cell Size) + ((7.0 - Clump Thickness) - (Uniformity of Cell Shape * Bare Nuclei))) - Uniformity of Cell Size)) - Uniformity of Cell Shape
+[07.05.2018 20:24:31,217] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:36:29,986] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:36:29,993] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 14.0 MB
+[07.05.2018 20:36:30,003] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:36:30,069] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 14.0 MB
+[07.05.2018 20:36:30,072] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:36:30,430] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:36:30,431] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Uniformity of Cell Shape / 2.0) - (Single Epithelial Cell Size * Clump Thickness)) / ((Bland Chromatin * Bare Nuclei) - (2.0 * 4.0))
+[07.05.2018 20:36:30,432] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:36:30,694] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:36:30,695] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Mitoses - ((Bare Nuclei + (Uniformity of Cell Shape + Marginal Adhesion)) + (Uniformity of Cell Size - 7.0))
+[07.05.2018 20:36:30,696] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:36:31,466] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:36:31,467] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((6.0 - Bare Nuclei) - Uniformity of Cell Shape) + (5.0 - Clump Thickness)
+[07.05.2018 20:36:31,467] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:36:31,845] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:36:31,846] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((5.0 - (Single Epithelial Cell Size * Uniformity of Cell Size)) - (Bare Nuclei - 7.0)) - (Bare Nuclei * Marginal Adhesion)
+[07.05.2018 20:36:31,846] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:36:32,219] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:36:32,220] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((6.0 - Uniformity of Cell Shape) * (((5.0 - Bare Nuclei) + (8.0 - Clump Thickness)) / Marginal Adhesion)) - (Bare Nuclei * Bland Chromatin)
+[07.05.2018 20:36:32,220] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:36:33,874] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:36:33,874] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Uniformity of Cell Shape / Single Epithelial Cell Size) + ((((5.0 + (4.0 - (Uniformity of Cell Shape + Mitoses))) - Uniformity of Cell Shape) / Marginal Adhesion) - Bare Nuclei)
+[07.05.2018 20:36:33,875] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[07.05.2018 20:36:36,383] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:36:36,383] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Uniformity of Cell Shape / Single Epithelial Cell Size) + ((((5.0 + ((7.0 - Uniformity of Cell Shape) - (Uniformity of Cell Shape + Mitoses))) - Uniformity of Cell Shape) / Marginal Adhesion) - Bare Nuclei)
+[07.05.2018 20:36:36,384] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[07.05.2018 20:36:37,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:36:37,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Uniformity of Cell Shape / Single Epithelial Cell Size) + (((((((6.0 / Uniformity of Cell Size) - Clump Thickness) + 8.0) - Uniformity of Cell Shape) - Uniformity of Cell Shape) / Marginal Adhesion) - Bare Nuclei)
+[07.05.2018 20:36:37,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[07.05.2018 20:36:51,306] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:36:51,306] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Uniformity of Cell Shape / Single Epithelial Cell Size) + (((((((6.0 / Uniformity of Cell Size) - Clump Thickness) + 8.0) - Uniformity of Cell Shape) - Uniformity of Cell Shape) / Marginal Adhesion) - Bare Nuclei)
+[07.05.2018 20:36:51,306] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[07.05.2018 20:37:21,667] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:37:21,675] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 10.0 MB
+[07.05.2018 20:37:21,687] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:37:21,770] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 10.0 MB
+[07.05.2018 20:37:21,774] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:37:22,056] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:37:22,058] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((7.0 + Uniformity of Cell Shape) - (Uniformity of Cell Shape * Bland Chromatin)) * ((Uniformity of Cell Size * Bare Nuclei) + (7.0 * Uniformity of Cell Shape))
+[07.05.2018 20:37:22,058] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:37:22,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:37:22,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7.0 - Clump Thickness) - Bare Nuclei
+[07.05.2018 20:37:22,196] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:37:23,256] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:37:23,256] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (2.0 - Bare Nuclei) + ((Bland Chromatin / Normal Nucleoli) + (7.0 - (Uniformity of Cell Size * Bland Chromatin)))
+[07.05.2018 20:37:23,257] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:37:23,378] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:37:23,378] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Uniformity of Cell Size + (6.0 - Bare Nuclei)) / (Uniformity of Cell Shape * Mitoses)) - Uniformity of Cell Size
+[07.05.2018 20:37:23,378] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:37:23,624] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:37:23,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((5.0 - Bare Nuclei) - Clump Thickness) - ((Uniformity of Cell Shape * Mitoses) - (6.0 - Uniformity of Cell Size))
+[07.05.2018 20:37:23,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:37:23,745] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:37:23,745] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Clump Thickness + ((((8.0 - Bare Nuclei) - Clump Thickness) - Uniformity of Cell Shape) * Uniformity of Cell Size)
+[07.05.2018 20:37:23,746] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:37:23,807] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:37:23,808] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8.0 - Marginal Adhesion) + (6.0 - Clump Thickness)) - (Single Epithelial Cell Size * Bare Nuclei)) + ((7.0 - Bare Nuclei) - Uniformity of Cell Size)
+[07.05.2018 20:37:23,808] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:37:25,142] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:37:25,142] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((8.0 / Uniformity of Cell Size) - (Single Epithelial Cell Size * Bare Nuclei)) + 9.0) - Clump Thickness) + ((5.0 - Uniformity of Cell Size) - Uniformity of Cell Shape)) - Uniformity of Cell Shape
+[07.05.2018 20:37:25,142] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:37:26,148] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:37:26,148] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((8.0 / Uniformity of Cell Size) - (Single Epithelial Cell Size * Bare Nuclei)) + 9.0) - Clump Thickness) + (Bare Nuclei - Uniformity of Cell Shape)) - (4.0 / Uniformity of Cell Size)
+[07.05.2018 20:37:26,148] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:37:33,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:37:33,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8.0 / Uniformity of Cell Size) - (Single Epithelial Cell Size * Bare Nuclei)) * Uniformity of Cell Size) + ((((Bare Nuclei - Uniformity of Cell Shape) * Uniformity of Cell Size) + 6.0) + Marginal Adhesion)
+[07.05.2018 20:37:33,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:37:42,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:37:42,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8.0 / Uniformity of Cell Size) - (Single Epithelial Cell Size * Bare Nuclei)) * Uniformity of Cell Size) + ((((Bare Nuclei - Uniformity of Cell Shape) * Uniformity of Cell Size) + 6.0) + Marginal Adhesion)
+[07.05.2018 20:37:42,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:39:08,999] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:39:09,005] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 14.0 MB
+[07.05.2018 20:39:09,018] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:39:09,091] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 14.0 MB
+[07.05.2018 20:39:09,092] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:39:09,409] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.07
+[07.05.2018 20:39:09,411] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Normal Nucleoli + 7.0) - (Bare Nuclei + Uniformity of Cell Size)) - ((Normal Nucleoli * Normal Nucleoli) + Normal Nucleoli)
+[07.05.2018 20:39:09,412] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:39:09,778] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:39:09,778] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8.0 - Uniformity of Cell Size) + (Marginal Adhesion - Uniformity of Cell Size)) - Bare Nuclei) - (Mitoses * Normal Nucleoli)
+[07.05.2018 20:39:09,780] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:39:09,961] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.05
+[07.05.2018 20:39:09,961] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8.0 - Uniformity of Cell Size) + (Marginal Adhesion - Uniformity of Cell Size)) - Bare Nuclei) - Uniformity of Cell Shape
+[07.05.2018 20:39:09,961] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:39:10,043] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:39:10,043] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8.0 - Uniformity of Cell Size) + (Mitoses / Normal Nucleoli)) - Bare Nuclei) - Uniformity of Cell Shape
+[07.05.2018 20:39:10,043] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:39:10,241] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:39:10,241] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((8.0 - Uniformity of Cell Size) - ((Marginal Adhesion * Single Epithelial Cell Size) - (Single Epithelial Cell Size - Bare Nuclei))) - ((Bland Chromatin / Marginal Adhesion) - (6.0 - Clump Thickness))
+[07.05.2018 20:39:10,241] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:39:10,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:39:10,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 - Uniformity of Cell Size) + ((4.0 - Clump Thickness) - (Bare Nuclei + Mitoses))
+[07.05.2018 20:39:10,446] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:39:10,740] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:39:10,741] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((7.0 - Uniformity of Cell Size) + ((3.0 - Uniformity of Cell Shape) / Normal Nucleoli)) - Bare Nuclei) - Uniformity of Cell Shape
+[07.05.2018 20:39:10,741] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:39:11,418] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:39:11,419] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((5.0 - Uniformity of Cell Size) - (Normal Nucleoli * Bare Nuclei)) - Uniformity of Cell Shape) / Normal Nucleoli) * Uniformity of Cell Size) + (7.0 - Clump Thickness)
+[07.05.2018 20:39:11,419] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:39:11,486] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:39:11,486] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((7.0 - Uniformity of Cell Size) - (Normal Nucleoli * Bare Nuclei)) - Uniformity of Cell Shape) / Normal Nucleoli) * Uniformity of Cell Size) + (7.0 - Clump Thickness)
+[07.05.2018 20:39:11,486] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:39:15,862] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:39:15,862] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((7.0 - Uniformity of Cell Size) - (Normal Nucleoli * Bare Nuclei)) - Uniformity of Cell Shape) / Normal Nucleoli) * Uniformity of Cell Size) + (6.0 - Clump Thickness)
+[07.05.2018 20:39:15,862] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:39:31,110] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.02
+[07.05.2018 20:39:31,111] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((7.0 - Uniformity of Cell Size) - (Normal Nucleoli * Bare Nuclei)) - Uniformity of Cell Shape) / Normal Nucleoli) * Uniformity of Cell Size) + (6.0 - Clump Thickness)
+[07.05.2018 20:39:31,111] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:42:42,884] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[07.05.2018 20:42:42,900] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 10.0 MB
+[07.05.2018 20:42:42,917] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[07.05.2018 20:42:43,017] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 10.0 MB
+[07.05.2018 20:42:43,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[07.05.2018 20:42:43,492] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.08
+[07.05.2018 20:42:43,495] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((7.0 - Clump Thickness) / (Bland Chromatin / Uniformity of Cell Shape)) - ((Bland Chromatin + Uniformity of Cell Shape) - ((Marginal Adhesion + 8.0) / Bare Nuclei))
+[07.05.2018 20:42:43,496] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:42:43,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.06
+[07.05.2018 20:42:43,804] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Uniformity of Cell Size - (Uniformity of Cell Size * ((Clump Thickness / 2.0) + (Uniformity of Cell Size - 4.0)))
+[07.05.2018 20:42:43,805] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[07.05.2018 20:42:43,892] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:42:43,893] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 - Uniformity of Cell Shape) - (Bare Nuclei * Uniformity of Cell Size)
+[07.05.2018 20:42:43,893] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[07.05.2018 20:42:44,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.04
+[07.05.2018 20:42:44,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((6.0 - Uniformity of Cell Shape) - (Bare Nuclei * Uniformity of Cell Size)) + (6.0 - Clump Thickness)
+[07.05.2018 20:42:44,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[07.05.2018 20:42:45,193] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:42:45,194] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 5.0 * ((6.0 - Uniformity of Cell Shape) - (Normal Nucleoli - ((((5.0 - Single Epithelial Cell Size) - Uniformity of Cell Shape) + (6.0 - Bare Nuclei)) - Uniformity of Cell Size)))
+[07.05.2018 20:42:45,194] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[07.05.2018 20:42:45,501] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:42:45,501] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((7.0 - Single Epithelial Cell Size) - (Bare Nuclei * Uniformity of Cell Size)) + (Single Epithelial Cell Size / Uniformity of Cell Shape)) + (4.0 - Bare Nuclei)) + (1.0 - Marginal Adhesion)
+[07.05.2018 20:42:45,501] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[07.05.2018 20:42:48,955] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:42:48,955] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((6.0 - Uniformity of Cell Shape) + ((7.0 - Clump Thickness) - Uniformity of Cell Size)) + (5.0 - Uniformity of Cell Shape)) / Uniformity of Cell Shape) - Bare Nuclei
+[07.05.2018 20:42:48,956] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[07.05.2018 20:43:03,949] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.03
+[07.05.2018 20:43:03,949] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((6.0 - Uniformity of Cell Shape) + ((7.0 - Clump Thickness) - Uniformity of Cell Size)) + (5.0 - Uniformity of Cell Shape)) / Uniformity of Cell Shape) - Bare Nuclei
+[07.05.2018 20:43:03,949] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
